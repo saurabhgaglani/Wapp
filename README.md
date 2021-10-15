@@ -1,5 +1,5 @@
 # Wapp
-Web Application built on js
+Web Application built using node js
 
 # Goal
 
